@@ -11,7 +11,7 @@ const DUMMY_MEETUPS = [
     description:'This is a first meetup'
 },
 {
-    id:'m2',
+    id:'m3',
     title:'A Second Meetup',
     image:'https://upload.wikimedia.org/wikipedia/commons/7/79/Westminster_Abbey_by_Canaletto%2C_1749.jpg',
     address:'Some address 6, 1234 Some city',
